@@ -36,10 +36,10 @@ automatic reply labeling the message as **Spam** or **Ham**.
 
 ## Screenshots
 ### Inbox
-![Inbox](screenshot_inbox.png)
+![Inbox](screenshot_inbox.png.png)
 
 ### Terminal Output
-![Terminal](screenshot_terminal.png)
+![Terminal](screenshot_terminal.png.png)
 
 ## How to Run
 1. Install dependencies:
